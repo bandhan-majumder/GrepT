@@ -16,7 +16,6 @@ Currently it supports
 **NOTE**
 Working on more support and code cleanup to make things reusable.
 
-
 ### Development setup
 ```bash
 git clone https://github.com/bandhan-majumder/GrepT
