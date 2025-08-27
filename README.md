@@ -33,3 +33,7 @@ echo "abc" bun run app/main.ts -E "a.b"
 echo "abb" | bun run app/main.ts -E "a+c"
 echo "abb" | bun run app/main.ts -E "a+b"
 ```
+
+### Upcoming features
+- Backpreferences
+- File search
